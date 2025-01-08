@@ -71,5 +71,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=soomelauri&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soomelauri/soomelauri/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soomelauri/soomelauri/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/soomelauri/soomelauri/output/github-snake.svg" />
+</picture>
+
 ###
 >>>>>>> 154b89b (Initial commit)
