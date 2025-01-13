@@ -14,7 +14,7 @@ class Me:
         self.hobbies = ["Muay Thai 🥊", "Tennis 🎾", "Gym 🏋️"]
 
     def hi(self):
-        print(f"Hi, I'm {self.name}. Thanks for dropping by.")
+        print(f"Hi, I'm {self.name}. Thanks for dropping by. Connect with me through the links provided in the bio.")
 
 
 Me.hi()
@@ -53,4 +53,3 @@ Me.hi()
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soomelauri/soomelauri/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/soomelauri/soomelauri/output/github-snake.svg" />
 </picture>
-
