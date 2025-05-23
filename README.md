@@ -9,7 +9,7 @@ class Me:
 
     def __init__(self):
         self.name = "Lauri Soome"
-        self.title = "Data Scientist & Django Engineer"
+        self.work = "Data & Engineering"
         self.active_courses = ["Web Systems Programming", "Applied Data Mining"]
         self.languages = ["English 🇺🇸", "Finnish 🇫🇮", "Estonian 🇪🇪"]
         self.hobbies = ["Muay Thai 🥊", "Tennis 🎾", "Gym 🏋️"]
